@@ -61,8 +61,7 @@ const Hero = () => {
                             <span className="">
                                 Customer Experience {" "}
                             </span>
-                            with Expert Consultinghelp businesses set up Intercom, implement Fin AI, optimize workflows, cut costs, and boost customer satisfaction
-                        </h1>
+                            with Intercom Certified Consulting
                     </Container>
                     <Container delay={0.2}>
                         <p className="max-w-xl mx-auto mt-2 text-base lg:text-lg text-center text-muted-foreground">

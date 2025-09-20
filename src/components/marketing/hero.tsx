@@ -61,7 +61,7 @@ const Hero = () => {
                             <span className="">
                                 Customer Experience {" "}
                             </span>
-                            with Intercom Certified Consulting
+                            with Intercom Certified Consulting   </h1>
                     </Container>
                     <Container delay={0.2}>
                         <p className="max-w-xl mx-auto mt-2 text-base lg:text-lg text-center text-muted-foreground">
